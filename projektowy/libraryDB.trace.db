@@ -1,0 +1,8 @@
+2019-09-17 02:21:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "AUTHORS" nie istnieje
+Table "AUTHORS" not found; SQL statement:
+DROP TABLE `AUTHORS`  [42102-193]
+2019-09-17 02:21:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Tabela "ARTICLES" nie istnieje
+Table "ARTICLES" not found; SQL statement:
+DROP TABLE `ARTICLES`  [42102-193]
